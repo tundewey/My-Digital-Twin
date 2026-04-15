@@ -1,0 +1,22 @@
+{
+    "full_name": "Tunde Wey",
+    "name": "Tunde",
+    "current_role": "Code Tutor",
+    "location": "Lagos, Nigeria",
+    "email": "tundewey11@gmail.com",
+    "linkedin": "linkedin.com/in/tunde-wey",
+    "youtube": "https://www.youtube.com/@devwithexcel",
+    "specialties": [
+      "Artificial Intelligence",
+      "Backend",
+      "JavaScript | Python"
+    ],
+    "years_experience": 5,
+    "education": [
+      {
+        "degree": "B. Tech",
+        "institution": "Federal University of Technology",
+        "year": "2015"
+      }
+    ]
+  }
